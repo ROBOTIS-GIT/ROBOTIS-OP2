@@ -1,0 +1,25 @@
+motion:
+  -2 : BREAK
+  -1 : STOP
+#  0 : .
+  4 : Thank you
+  15 : Sit downn
+  1 : Stand up
+  9 : Walk ready
+  2 : Yes
+  3 : No
+  23 : Yes Go!
+  24 : Wow!
+  27 : Oops
+  54 : Clap plaese
+  38 : Bye bye
+
+  10 : Get up(Front)
+  11 : Get up(Back)
+  12 : Right Kick
+  13 : Left Kick
+
+# action demo
+  17 : Hand Standing
+motion_shortcut:
+# motion_index : button id (0 ~ 9)

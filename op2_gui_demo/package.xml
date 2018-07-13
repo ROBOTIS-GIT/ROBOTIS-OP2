@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>op2_gui_demo</name>
+  <version>0.1.0</version>
+  <description>
+    The op2_gui_demo is a GUI software to control ROBOTIS-OP2. Within this program, user can perform module settings, walking tuner, head joint control and play actions.
+  </description>
+  <license>Apache 2.0</license>
+  <author email="kmjung@robotis.com">Kayman</author>
+  <maintainer email="pyo@robotis.com">Pyo</maintainer>
+  <url type="website">http://wiki.ros.org/op2_gui_demo</url>
+  <url type="emanual">http://emanual.robotis.com/docs/en/platform/op2/getting_started/</url>
+  <url type="repository">https://github.com/ROBOTIS-GIT/ROBOTIS-OP2</url>
+  <url type="bugtracker">https://github.com/ROBOTIS-GIT/ROBOTIS-OP2/issues</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>op3_gui_demo</depend>
+  <!--exec_depend>op3_gui_demo</exec_depend-->
+</package>

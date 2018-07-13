@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>op2_manager</name>
+  <version>0.1.0</version>
+  <description>
+    The op2_manager package
+  </description>
+  <license>Apache 2.0</license>
+  <author email="kmjung@robotis.com">Kayman</author>
+  <maintainer email="pyo@robotis.com">Pyo</maintainer>
+  <url type="website">http://wiki.ros.org/op2_manager</url>
+  <url type="emanual">http://emanual.robotis.com/docs/en/platform/op2/getting_started/</url>
+  <url type="repository">https://github.com/ROBOTIS-GIT/ROBOTIS-OP2</url>
+  <url type="bugtracker">https://github.com/ROBOTIS-GIT/ROBOTIS-OP2/issues</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>robotis_controller_msgs</depend>
+  <depend>op3_action_module_msgs</depend>
+  <depend>op3_walking_module_msgs</depend>
+  <depend>op3_online_walking_module_msgs</depend>
+  <depend>cmake_modules</depend>
+  <depend>dynamixel_sdk</depend>
+  <depend>robotis_framework_common</depend>
+  <depend>robotis_device</depend>
+  <depend>robotis_controller</depend>
+  <depend>robotis_math</depend>
+  <depend>op2_kinematics_dynamics</depend>
+  <depend>op3_balance_control</depend>
+  <depend>open_cr_module</depend>
+  <depend>op3_base_module</depend>
+  <depend>op3_head_control_module</depend>
+  <depend>op2_walking_module</depend>
+  <depend>op3_action_module</depend>
+  <depend>op3_direct_control_module</depend>
+  <depend>op3_online_walking_module</depend>
+  <exec_depend>op3_localization</exec_depend>
+</package>

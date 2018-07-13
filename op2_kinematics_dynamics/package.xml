@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>op2_kinematics_dynamics</name>
+  <version>0.1.0</version>
+  <description>
+    The op2_kinematics_dynamics package
+  </description>
+  <license>Apache 2.0</license>
+  <author email="kmjung@robotis.com">Kayman</author>
+  <maintainer email="pyo@robotis.com">Pyo</maintainer>
+  <url type="website">http://wiki.ros.org/op2_kinematics_dynamics</url>
+  <url type="emanual">http://emanual.robotis.com/docs/en/platform/op2/getting_started/</url>
+  <url type="repository">https://github.com/ROBOTIS-GIT/ROBOTIS-OP2</url>
+  <url type="bugtracker">https://github.com/ROBOTIS-GIT/ROBOTIS-OP2/issues</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>cmake_modules</depend>
+  <depend>robotis_math</depend>
+  <depend>eigen</depend>
+</package>
